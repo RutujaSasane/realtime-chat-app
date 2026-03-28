@@ -1,0 +1,1 @@
+console.log("Hello JavaScript - Day 1 setup");

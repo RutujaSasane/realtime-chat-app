@@ -15,3 +15,12 @@ Phases
 5. React frontend
 6. Real-time messaging
 7. Deployment
+
+## Progress
+
+### 28 March 2026
+- Project repository created
+- Development environment setup completed
+- Installed PostgreSQL and Postman
+- Learned basic terminal commands
+- Created practice JavaScript file
